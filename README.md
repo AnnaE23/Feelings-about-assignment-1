@@ -1,1 +1,3 @@
 # Feelings-about-assignment-1
+
+I feel like assignment 1 went pretty well. I do believe I could have decided on a more narrow topic than the one I chose. Because my topic could have been either very expansive or very small it was slightly more difficult, however, I believe I covered my topic thourghly for the audince it was intended for. I also believe I included everthing the assignment instructions specified ,but I am a little concernced because the instructions were not very specific other than on the two introductry paragraphs and FAQ's section. I did not really enjoy utilizing git hub/markdown ,but the second assignment might be accomplished in an easier manner now that I am a little more familar with github/markdown. 
